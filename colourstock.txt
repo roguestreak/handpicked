@@ -1,0 +1,13 @@
+["Brown","a"],
+["Steel","na"],
+["Forest","na"],
+["Red","a"],
+["Mustard","a"],
+["Black","a"],
+["Midnight Blue","a"],
+["Yellow","a"],
+["Lime","s"],
+["White","s"],
+["Nu Blue","a"],
+["Pink","s"],
+["Blue Curacoa","s"]
