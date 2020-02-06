@@ -1,6 +1,6 @@
 # handpicked
-visualiser settings files
+visualiser settings files  
 
-a = available
-s = coming soon
-n = not available
+a = available  
+s = coming soon  
+n = not available  
