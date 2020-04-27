@@ -10,4 +10,4 @@
 ["White","s"],
 ["Nu Blue","a"],
 ["Pink","s"],
-["Blue Curacoa","s"]
+["Blue Curacao","s"]
