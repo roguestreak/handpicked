@@ -9,5 +9,5 @@
 ["Lime","s"],
 ["White","s"],
 ["Nu Blue","a"],
-["Pink","s"],
-["Blue Curacao","s"]
+["Pink","a"],
+["Blue Curacao","a"]
