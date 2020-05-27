@@ -3,6 +3,6 @@
 ["Orange","a"],
 ["Blue","na"],
 ["White","a"],
-["Yellow","s"],
-["Turquoise","s"],
+["Yellow","a"],
+["Turquoise","a"],
 ["Brown","a"]
