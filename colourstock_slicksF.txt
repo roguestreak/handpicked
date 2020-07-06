@@ -1,0 +1,13 @@
+["Black","na"],
+["Brown","na"],
+["White","na"],
+["Violet","s"],
+["Fuchsia","s"],
+["Orange","a"],
+["Bright Orange","s"],
+["Blue","s"],
+["Sky Blue","s"],
+["Turquoise","a"],
+["Yellow","a"],
+["Electric Lemon","s"],
+["Red","s"]
