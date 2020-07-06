@@ -1,7 +1,7 @@
 ["Black","na"],
 ["Brown","na"],
 ["White","na"],
-["Violet","s"],
+["Purple","s"],
 ["Fuchsia","s"],
 ["Orange","a"],
 ["Bright Orange","s"],
