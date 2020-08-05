@@ -1,7 +1,7 @@
 ["#111111","Black","na"],
 ["#875b1e","Brown","na"],
 ["#f1f1f1","White","na"],
-["#993399","PINK","a"],
+["#993399","Purple","a"],
 ["#ff007d","Fuchsia","a"],
 ["#ff8100","Orange","na"],
 ["#FF5C00","Bright Orange","a"],
