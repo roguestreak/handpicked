@@ -8,6 +8,6 @@
 ["#00CCFF","Blue","na"],
 ["#77B5FE","Sky Blue","a"],
 ["#FFE300","Yellow","a"],
-["#ccdd22","Electric Lime","a"],
+["#ccdd22","Electric Lemon","a"],
 ["#0DC79F","Turquoise","a"],
 ["#f01b26","Red","a"]
