@@ -1,0 +1,13 @@
+["#875b1e","Brown","na"],
+["#636363","Steel","na"],
+["#415426","Forest","na"],
+["#EC0000","Red","a"],
+["#b9a812","Mustard","na"],
+["#111111","Black","a"],
+["#0e084b","Midnight Blue","na"],
+["#FFE300","Yellow","a"],	
+["#a7f638","Lime","na"],
+["#f1f1f1","White","na"],
+["#0099FF","Nu Blue","na"],
+["#E01E97","Pink","a"],
+["#00ADD5","Blue Curacao","a"]
