@@ -9,5 +9,5 @@
 ["#77B5FE","Sky Blue","a"],
 ["#FFE300","Yellow","a"],
 ["#ccdd22","Electric Lemon","a"],
-["#00E7F9","Turquoise","a"],
+["#00C7B9","Turquoise","a"],
 ["#f01b26","Red","a"]
