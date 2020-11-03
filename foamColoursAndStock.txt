@@ -10,4 +10,6 @@
 ["#f1f1f1","White","na"],
 ["#0099FF","Nu Blue","na"],
 ["#E01E97","Pink","a"],
-["#00ADD5","Blue Curacao","a"]
+["#00ADD5","Blue Curacao","a"],
+["#26D2C6","Turquoise","s"],
+["#0F3B9F","Navy Blue","s"]
