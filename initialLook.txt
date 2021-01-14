@@ -9,4 +9,4 @@
 ["deckStampColour","White"],
 ["bottomStamp","r"],
 ["bottomStampColour","White"],
-["Brown","a"]
+["showMesh","true"]
