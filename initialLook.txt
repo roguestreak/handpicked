@@ -8,5 +8,5 @@
 ["deckStamp","r"],
 ["deckStampColour","White"],
 ["bottomStamp","r"],
-["bottomStampColour, "White"],
+["bottomStampColour,"White"],
 ["showMesh","true"]
