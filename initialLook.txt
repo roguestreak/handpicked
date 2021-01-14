@@ -5,7 +5,8 @@
 ["deckContourCode","n"],
 ["channelCode","v"],
 ["tailShapeCode","tcc"],
-["White","a"],
-["Yellow","a"],
-["Turquoise","a"],
+["deckStamp","r"],
+["deckStampColour","White"],
+["bottomStamp","r"],
+["bottomStampColour","White"],
 ["Brown","a"]
