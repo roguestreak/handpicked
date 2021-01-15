@@ -6,7 +6,7 @@
 ["#ff8100","Orange","na"],
 ["#FF5C00","Bright Orange","a"],
 ["#00CCFF","Blue","na"],
-["#77B5FE","Sky Blue","a"],
+["#1E9BD5","Sky Blue","a"],
 ["#FFE300","Yellow","a"],
 ["#ccdd22","Electric Lemon","a"],
 ["#00C7B9","Turquoise","a"],
