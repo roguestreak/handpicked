@@ -3,7 +3,7 @@
 ["railColour","Black"],
 ["slickColour","Black"],
 ["deckContourCode","n"],
-["channelCode","v"],
+["channelCode","s"],
 ["tailShapeCode","tcc"],
 ["deckStamp","r"],
 ["deckStampColour","White"],
