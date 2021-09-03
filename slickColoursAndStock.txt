@@ -4,10 +4,10 @@
 ["#993399","Purple","na"],
 ["#ff007d","Fuchsia","a"],
 ["#ff8100","Orange","a"],
-["#FF5C00","Bright Orange","a"],
+["#FF5C00","Bright Orange","na"],
 ["#00CCFF","Blue","na"],
 ["#009EE8","Sky Blue","na"],
 ["#FFE300","Yellow","na"],
 ["#ccdd22","Electric Lemon","na"],
 ["#00C7B9","Turquoise","na"],
-["#f01b26","Red","a"]
+["#f01b26","Red","na"]
