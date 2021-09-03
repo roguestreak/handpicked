@@ -14,29 +14,29 @@ tail Shape Code\
 tcc - clipped crescent\
 tfc - full crescent\
 tfb - full bat\
-tcb - clipped bat\
+tcb - clipped bat
 
-deck Contour Code
-  n - none
-  f - full
-  l - hand lock
-  h - half
+deck Contour Code\
+  n - none\
+  f - full\
+  l - hand lock\
+  h - half\
   v - volume (not currently implemented)
 
-channel Type
-  f - flat
-  s - standard
-  g - graduated
+channel Type\
+  f - flat\
+  s - standard\
+  g - graduated\
   v - vice
 
-deckStamp and bottomStamp styles
-  r = round
-  h = HNDPKD
-  m = minimal
+deckStamp and bottomStamp styles\
+  r = round\
+  h = HNDPKD\
+  m = minimal\
   l = lion
 
-stamp colours available
+stamp colours available\
   "White","Black","Orange","Red","Blue","Ghost"
 
-showMesh
+showMesh\
   true / false
