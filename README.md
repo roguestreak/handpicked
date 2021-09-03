@@ -10,11 +10,11 @@ na = not available
 Initial Look settings:
 KEY:
 
-tail Shape Code
--tcc; clipped crescent
--tfc - full crescent
--tfb - full bat
--tcb - clipped bat
+tail Shape Code\
+tcc - clipped crescent\
+tfc - full crescent\
+tfb - full bat\
+tcb - clipped bat\
 
 deck Contour Code
   n - none
