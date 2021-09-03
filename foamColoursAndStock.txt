@@ -2,7 +2,7 @@
 ["#636363","Steel","na"],
 ["#EC0000","Red","a"],
 ["#111111","Black","a"],
-["#0F3B9F","Navy Blue","a"],
+["#0F3B9F","Navy Blue","na"],
 ["#FFE300","Yellow","a"],	
 ["#8FD008","Apple Green","a"],
 ["#f1f1f1","White","na"],
