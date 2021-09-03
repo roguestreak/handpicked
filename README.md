@@ -11,7 +11,7 @@ Initial Look settings:
 KEY:
 
 tail Shape Code
-  tcc - clipped crescent
+tcc - clipped crescent
   tfc - full crescent
   tfb - full bat
   tcb - clipped bat
