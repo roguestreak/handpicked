@@ -1,4 +1,7 @@
 ["#111111","Black","a"],
 ["#1b1464","Midnight Blue","a"],
 ["#004c47","Mallard Green","a"],
-["#00ADD5","Blue Curacao","a"]
+["#00ADD5","Blue Curacao","a"],
+["#EC0000","Red","a"],
+["#FFE300","Yellow","a"],
+["#F37009","Orange","a"]
