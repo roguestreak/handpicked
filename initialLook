@@ -1,5 +1,5 @@
 ["deckColour","Black"],
-["pinColour","Black"],
+["pinColour","White"],
 ["railColour","Black"],
 ["slickColour","White"],
 ["deckContourCode","n"],
@@ -9,4 +9,5 @@
 ["deckStampColour","White"],
 ["bottomStamp","r"],
 ["bottomStampColour","Black"],
-["showMesh","false"]
+["showMesh","false"],
+["showChine","true"]
