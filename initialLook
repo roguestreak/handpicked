@@ -5,9 +5,9 @@
 ["deckContourCode","n"],
 ["channelCode","s"],
 ["tailShapeCode","tcc"],
-["deckStamp","r"],
+["deckStamp","s"],
 ["deckStampColour","White"],
-["bottomStamp","r"],
+["bottomStamp","s"],
 ["bottomStampColour","Black"],
 ["showMesh","false"],
 ["showChine","true"]
