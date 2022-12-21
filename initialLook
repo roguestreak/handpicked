@@ -1,13 +1,13 @@
-["deckColour","Black"],
-["pinColour","Turquoise"],
+["deckColour","Blue Curacao"],
+["pinColour","Black"],
 ["railColour","Black"],
 ["slickColour","White"],
 ["deckContourCode","n"],
 ["channelCode","s"],
 ["tailShapeCode","tcc"],
-["deckStamp","s"],
+["deckStamp","r"],
 ["deckStampColour","White"],
-["bottomStamp","s"],
+["bottomStamp","r"],
 ["bottomStampColour","Black"],
 ["showMesh","false"],
-["showChine","true"]
+["showChine","false"]
