@@ -18,10 +18,11 @@ tcb - clipped bat
 
 deck Contour Code\
   n - none\
-  f - full\
+  f - full - not used\
+  c - curve\
   l - hand lock\
-  h - half\
-  v - volume (not currently implemented)
+  h - half - not used\
+  v - volume
 
 channel Type\
   f - flat\
@@ -33,7 +34,9 @@ deckStamp and bottomStamp styles\
   r = round\
   h = HNDPKD\
   m = minimal\
-  l = lion
+  l = lion\
+  s = signature\
+  o = one-line minimal
 
 stamp colours available\
   "White","Black","Orange","Red","Blue","Ghost"
