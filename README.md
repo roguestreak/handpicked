@@ -39,7 +39,7 @@ deckStamp and bottomStamp styles\
   o = one-line minimal
 
 stamp colours available\
-  "White","Black","Orange","Red","Blue","Ghost"
+  "White","Black","Salmon","Apple Green","Red","Yellow","Dark Purple","Ghost"
 
 showMesh\
   true / false
