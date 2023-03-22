@@ -28,7 +28,9 @@ channel Type\
   f - flat\
   s - standard\
   g - graduated\
-  v - vice
+  2 - gen-two quad\
+  v - vice - not used\
+  q - quad - not used
 
 deckStamp and bottomStamp styles\
   r = round\
