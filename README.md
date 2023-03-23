@@ -36,7 +36,7 @@ deckStamp and bottomStamp styles\
   r = round\
   h = HNDPKD\
   m = minimal\
-  l = lion\
+  l = lion - not used\
   s = signature\
   o = one-line minimal
 
