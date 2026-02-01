@@ -7,4 +7,10 @@
 ["#00ADD5","Aqua Blue","a"],
 ["#EC0000","Red","a"],
 ["#808080","Grey","a"],
-["#ccff00","Electric Green","a"]
+["#ccff00","Electric Green","a"],
+["#0DC79F","Turquoise","a"],
+["#875b1e","Brown","a"],
+["#ff007d","Fuchsia","a"],
+["#FF5C00","Bright Orange","a"],
+["#77B5FE","Sky Blue","a"],
+["#ccdd22","Electric Lemon","a"]
